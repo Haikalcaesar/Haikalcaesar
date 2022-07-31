@@ -1,6 +1,3 @@
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
-https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white
-
 
 - 👋 Hi, I’m @Haikalcaesar
 - 👀 I’m interested in ...
